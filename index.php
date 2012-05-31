@@ -11,7 +11,6 @@
 				padding: 0;
 			}
 			body {
-				/*padding-top: 3em;*/
 				display: -moz-box;
 				display: -webkit-box;
 				-moz-box-align: center;
@@ -35,6 +34,7 @@
 				<a href="http://twitter.com/corona266" class="btn btn-large btn-info">Twitter</a>
 				<a href="http://yui7.tk/" class="btn btn-large btn-info">weblog</a>
 				<a href="http://b.yui7.tk/" class="btn btn-large btn-info">mail</a>
+				<a href="http://twipo.yu-i.com/" class="btn btn-large btn-primary">Twipo</a>
 			</div>
 			<hr />
 			<footer>&copy; corona</footer>
