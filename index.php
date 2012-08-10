@@ -34,6 +34,8 @@
 				<a href="http://twitter.com/corona266" class="btn btn-large btn-info">Twitter</a>
 				<a href="http://yui7.tk/" class="btn btn-large btn-info">weblog</a>
 				<a href="http://b.yui7.tk/" class="btn btn-large btn-info">mail</a>
+				<a href="http://hatena.ne.jp/corona6/" class="btn btn-large btn-info">hatena</a>
+				<a href="http://github.com/corona6" class="btn btn-large btn-info">github</a>
 				<a href="http://twipo.yu-i.com/" class="btn btn-large btn-primary">Twipo</a>
 			</div>
 			<hr />
