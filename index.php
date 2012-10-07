@@ -38,6 +38,7 @@
 				<a href="http://c.yui7.tk/" class="btn btn-large btn-info">chat</a>
 				<a href="http://hatena.ne.jp/corona6/" class="btn btn-large btn-info">hatena</a>
 				<a href="http://github.com/corona6" class="btn btn-large btn-info">github</a>
+				<a href="http://lingr.com/corona" class="btn btn-large btn-info">Lingr</a>
 				<a href="http://jotlist.tk/" class="btn btn-large btn-primary">Jotlist</a>
 			</div>
 			<hr />
