@@ -35,7 +35,6 @@
 				<a href="http://yui7.tk/" class="btn btn-large btn-info">weblog</a>
 				<a href="http://b.yui7.tk/" class="btn btn-large btn-info">mail</a>
 				<a href="http://my410.tk/" class="btn btn-large btn-info">photo</a>
-				<a href="http://c.yui7.tk/" class="btn btn-large btn-info">chat</a>
 				<a href="http://hatena.ne.jp/corona6/" class="btn btn-large btn-info">hatena</a>
 				<a href="http://github.com/corona6" class="btn btn-large btn-info">github</a>
 				<a href="http://lingr.com/corona" class="btn btn-large btn-info">Lingr</a>
