@@ -25,20 +25,19 @@
 				text-align: right;
 			}
 		</style>
-		<title>coronet</title>
+		<title>corona</title>
 	</head>
 	<body>
 		<div class="container">
 			<hr />
 			<div class="raow">
-				<a href="http://twitter.com/corona266" class="btn btn-large btn-info">Twitter</a>
-				<a href="http://yui7.tk/" class="btn btn-large btn-info">weblog</a>
+				<a href="http://twitter.com/corona266" class="btn btn-large btn-info">twitter</a>
 				<a href="http://b.yui7.tk/" class="btn btn-large btn-info">mail</a>
 				<a href="http://my410.tk/" class="btn btn-large btn-info">photo</a>
 				<a href="http://hatena.ne.jp/corona6/" class="btn btn-large btn-info">hatena</a>
-				<a href="http://github.com/corona6" class="btn btn-large btn-info">github</a>
-				<a href="http://lingr.com/corona" class="btn btn-large btn-info">Lingr</a>
-				<a href="http://jotlist.tk/" class="btn btn-large btn-primary">Jotlist</a>
+				<a href="https://github.com/corona6" class="btn btn-large btn-info">github</a>
+				<a href="https://bitbucket.org/corona6" class="btn btn-large btn-info">bitbucket</a>
+				<a href="http://jotlist.tk/" class="btn btn-large btn-primary">jotlist</a>
 			</div>
 			<hr />
 			<footer>&copy; corona</footer>
