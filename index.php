@@ -3,6 +3,8 @@
 	<head>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
 		<style>
 			html, body {
 				width: 100%;
