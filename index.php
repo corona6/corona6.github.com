@@ -37,7 +37,7 @@
 				<a href="http://hatena.ne.jp/corona6/" class="btn btn-large btn-info">hatena</a>
 				<a href="https://github.com/corona6" class="btn btn-large btn-info">github</a>
 				<a href="https://bitbucket.org/corona6" class="btn btn-large btn-info">bitbucket</a>
-				<a href="http://jotlist.tk/" class="btn btn-large btn-primary">jotlist</a>
+				<a href="http://jotlist.tk/user/corona" class="btn btn-large btn-info">jotlist</a>
 			</div>
 			<hr />
 			<footer>&copy; corona</footer>
