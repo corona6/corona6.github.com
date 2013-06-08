@@ -2,48 +2,73 @@
 <html lang="ja">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" type="text/css" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="bootstrap/css/bootstrap-responsive.min.css" type="text/css" />
+		<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.1.0/pure-min.css">
 		<style>
-			html, body {
-				width: 100%;
-				height: 100%;
+			.header {
+				min-height: 80px;
 				margin: 0;
-				padding: 0;
+				color: #333;
+				padding: 1em;
+				text-align: center;
+				border-bottom: 1px solid #eee;
+				background: #fff;
 			}
-			body {
-				display: -moz-box;
-				display: -webkit-box;
-				-moz-box-align: center;
-				-webkit-box-align: center;
-				-moz-box-pack: center;
-				-webkit-box-pack: center;
+			.header h1 {
+				margin: 0.2em 0;
+				font-size: 3em;
+				font-weight: 300;
 			}
-			.raow {
+			.header h2 {
+				font-weight: 300;
+				margin: 0;
+				color: #ccc;
+			}
+			.pure-g-r {
 				text-align: center;
 			}
-			footer {
-				text-align: right;
+			.box {
+				padding: 1.3em;
 			}
 		</style>
 		<title>corona</title>
 	</head>
 	<body>
-		<div class="container">
-			<hr />
-			<div class="raow">
-				<a href="http://twitter.com/corona266" class="btn btn-large btn-info">twitter</a>
-				<a href="http://b.yui7.tk/" class="btn btn-large btn-info">mail</a>
-				<a href="http://my410.tk/" class="btn btn-large btn-info">photo</a>
-				<a href="http://hatena.ne.jp/corona6/" class="btn btn-large btn-info">hatena</a>
-				<a href="https://github.com/corona6" class="btn btn-large btn-info">github</a>
-				<a href="https://bitbucket.org/corona6" class="btn btn-large btn-info">bitbucket</a>
-				<a href="http://jotlist.tk/user/corona" class="btn btn-large btn-info">jotlist</a>
+		<div class="header pure-u-1">
+			<h1 class="pure-u-1">corona</h1>
+			<h2 class="pure-u">web developer</h2>
+		</div>
+		<div class="pure-g-r">
+			<div class="pure-u-1-3">
+				<div class="box">
+					<a href="https://twitter.com/corona266" class="pure-button">twitter</a>
+				</div>
 			</div>
-			<hr />
-			<footer>&copy; corona</footer>
+			<div class="pure-u-1-3">
+				<div class="box">
+					<a href="http://b.yui7.tk/" class="pure-button">mail</a>
+				</div>
+			</div>
+			<div class="pure-u-1-3">
+				<div class="box">
+					<a href="http://my410.tk/" class="pure-button">photo</a>
+				</div>
+			</div>
+			<div class="pure-u-1-3">
+				<div class="box">
+					<a href="http://hatena.ne.jp/corona6/" class="pure-button">hatena</a>
+				</div>
+			</div>
+			<div class="pure-u-1-3">
+				<div class="box">
+					<a href="https://github.com/corona6" class="pure-button">github</a>
+				</div>
+			</div>
+			<div class="pure-u-1-3">
+				<div class="box">
+					<a href="http://jotlist.tk/user/corona" class="pure-button">jotlist</a>
+				</div>
+			</div>
 		</div>
 	</body>
 </html>
-
